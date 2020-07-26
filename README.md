@@ -1,6 +1,7 @@
 # SitecoreClientExplorer
 
-A new Flutter project.
+I have hardcoded every setting related stuff in "AppConst" class. If you want to run this in your environment, make sure you have changed those values accordingly.
+Also make sure you sitecore instance is binded to your local ip so that from android/iphone, applcation can be able to access that.
 
 ## Getting Started
 
